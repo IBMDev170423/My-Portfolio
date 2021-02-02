@@ -1,0 +1,35 @@
+//HEADER//
+.Header-inner  {
+  background :#fff !important;
+  margin-top:-40px !important;
+}
+.Header-nav-inner{
+  margin-top:-10px !important;
+}
+.Icon--bag{
+   margin-top:-10px !important;
+}
+.Header-branding{
+  margin-top:-10px !important;
+}
+
+ @media only screen and (max-width:1900px)and (min-width:1200px){
+  #collection-5ebd191ce132094a174f9d7c .Parallax-item figure {
+    max-height:900px;
+    background-size: 100% 100%;
+  height:900px;
+    top:-280px !important;
+}
+  .Intro-image {
+        max-height: 180px;
+    position: relative !important;
+    top: 10px !important;
+  }
+  .Intro-image img {
+    position: relative !important;
+    width: 100% !important;
+    height: 100% !important;
+    left: 0px !important;
+    top: 0px !important;
+}
+}
